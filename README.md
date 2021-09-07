@@ -8,7 +8,7 @@
 
 ## Disclaimers
 
-> This proof of concept ([TRL 4/5](https://en.wikipedia.org/wiki/Technology_readiness_level)) is intended to demonstrate the technical validity of applying X technique to Y dataset in order to solve Z. It is not intended for deployment in a clinical or non-clinical setting without further development.
+> This proof of concept ([TRL 4](https://en.wikipedia.org/wiki/Technology_readiness_level)) is intended to demonstrate the technical validity of applying X technique to Y dataset in order to solve Z. It is not intended for deployment in a clinical or non-clinical setting without further development.
 
 > This project was subject to a Data Protection Impact Assessment (DPIA), ensuring the protection of the data used in line with the UK Data Protection Act 2018 and UK GDPR. No data or trained models are shared in this repository.
 
