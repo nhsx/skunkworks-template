@@ -10,21 +10,11 @@
 
 _Include a high-level summary of what the problem you are trying to solve is._
 
-## Model selection
+## Under development
 
-_Include a high-level rationale of the approach you took._
+This project is currently under active development, which can be followed in the [`develop`](./tree/develop) branch here on Github.
 
-## Known limitations
-
-_Include known limitations and issues with your approach._
-
-## Data pipeline
-
-_Include an ideally visual representation of data flow, and include a link to a data dictionary/data requirements._
-
-## Getting Started
-
-_Include a brief overview of the codebase. Include setup and execution instructions, including any required environment variables. Consider using a `virtual environment` for dependency management._
+When the project is completed the [`develop`](./tree/develop) branch will be merged into the `main` branch as a release.
 
 ## NHS AI Lab Skunkworks
 The project is supported by the NHS AI Lab Skunkworks, which exists within the NHS AI Lab at NHSX to support the health and care community to rapidly progress ideas from the conceptual stage to a proof of concept.
