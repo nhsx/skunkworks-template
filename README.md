@@ -36,6 +36,12 @@ _Include an ideally visual representation of data flow, and include a link to a 
 
 ## Getting Started
 
+1. Clone this repository: `git clone git@github.com:nhsx/skunkworks-template.git`
+2. Switch to the `develop` branch: `git branch develop`
+3. Create a new virtual environment: `mkvirtualenv my-project` or `pyenv virtualenv 3.8.5 my-project`
+4. Install the requirements of this template: `pip install -r requirements.txt`
+5. Enable pre-commits: `pre-commit install`
+
 _Include a brief overview of the codebase. Include setup and execution instructions, including any required environment variables. Consider using a `virtual environment` for dependency management._
 
 ## NHS AI Lab Skunkworks
