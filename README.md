@@ -12,7 +12,7 @@ This proof of concept ([TRL 4](https://en.wikipedia.org/wiki/Technology_readines
 
 ## Data Protection
 
-This project was subject to a Data Protection Impact Assessment (DPIA), ensuring the protection of the data used in line with the UK Data Protection Act 2018 and UK GDPR. No data or trained models are shared in this repository.
+This project was subject to a Data Protection Impact Assessment (DPIA), ensuring the protection of the data used in line with the [UK Data Protection Act 2018](https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted) and [UK GDPR](https://ico.org.uk/for-organisations/dp-at-the-end-of-the-transition-period/data-protection-and-the-eu-in-detail/the-uk-gdpr/). No data or trained models are shared in this repository.
 
 ## Background
 
