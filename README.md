@@ -1,3 +1,7 @@
+[![MIT License](https://img.shields.io/badge/License-MIT-lightgray.svg)](LICENSE)
+![Python Version](https://img.shields.io/badge/Python-3.8.5-blue.svg)
+<!-- Add in additional badges as appropriate -->
+
 ![Banner of NHS AI Lab Skunkworks ](docs/banner.png)
 
 # NHS AI Lab Skunkworks project: {PROJECT NAME}
